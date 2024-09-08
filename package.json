@@ -4,7 +4,9 @@
   "displayName": "Remote Dev Shortcut",
   "description": "Adds shortcuts for remote development (SSH and devcontainers)",
   "publisher": "tfenster",
+  "repository": "https://github.com/tfenster/remote-dev-shortcut",
   "version": "1.0.0",
+  "icon": "media/bubble.png",
   "engines": {
     "vscode": "^1.92.0"
   },
