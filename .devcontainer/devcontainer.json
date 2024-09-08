@@ -8,7 +8,8 @@
 		"vscode": {
 			"extensions": [
 				"ms-azuretools.vscode-azurevirtualmachines",
-				"amodio.tsl-problem-matcher"
+				"amodio.tsl-problem-matcher",
+				"eamodio.gitlens"
 			]
 		}
 	},

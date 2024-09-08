@@ -1,4 +1,4 @@
-# remote-dev-shortcut README
+# remote-dev-shortcut
 
 Adds shortcuts for remote development (SSH and devcontainers)
 
